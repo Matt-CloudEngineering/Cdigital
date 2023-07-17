@@ -1,0 +1,837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ml",
+				"ml-8"
+			],
+			[
+				"fle",
+				"flex-column"
+			],
+			[
+				"background-po",
+				"background-position-x"
+			],
+			[
+				"background",
+				"background-image"
+			],
+			[
+				"Clie",
+				"Client"
+			],
+			[
+				"Serv",
+				"ServiceCategory"
+			],
+			[
+				"json",
+				"json_encode()"
+			],
+			[
+				"billing",
+				"billing_threshold"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"Ser",
+				"ServiceController"
+			],
+			[
+				"mt",
+				"mt-2"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"function",
+				"runkit_function_add()"
+			],
+			[
+				"func",
+				"create_function()"
+			],
+			[
+				"foreign",
+				"db2_foreign_keys()"
+			],
+			[
+				"Model",
+				"ModelNotFoundException"
+			],
+			[
+				"serv",
+				"services"
+			],
+			[
+				"xsma",
+				"x-small"
+			],
+			[
+				"str_r",
+				"str_replace()"
+			],
+			[
+				"ex",
+				"excerpt"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"font",
+				"font-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "resources/views/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 2183,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAhwgAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "<?php\n\nuse Illuminate\\Support\\Facades\\Route;\n\nRoute::get('/', function () {\n    return view('index');\n});\n",
+			"settings":
+			{
+				"buffer_size": 106,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAagAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/mattsmith/Sites/Comprehensivedigital.com/styles.css",
+			"settings":
+			{
+				"buffer_size": 1730,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "/* Reset some default browser styles */"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAwgYAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/mattsmith/Sites/Comprehensivedigital.com/slider.js",
+			"settings":
+			{
+				"buffer_size": 368,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "// JavaScript for the image slider"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAcAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":u",
+				"Permute Lines: Unique"
+			],
+			[
+				"new",
+				"ANF: New File"
+			],
+			[
+				"renam",
+				"ANF: Rename File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"ren",
+				"ANF: Rename File"
+			],
+			[
+				"copy",
+				"ANF: Copy Current File"
+			],
+			[
+				"afn",
+				"ANF: Copy Current File"
+			],
+			[
+				"anf",
+				"ANF: Delete File"
+			],
+			[
+				"delet",
+				"ANF: Delete File"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"toggle",
+				"View: Toggle Tabs"
+			],
+			[
+				"packageresour",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 112.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mattsmith/Sites/sandbox/app/Models/Service.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/projects/_header.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/projects-grid.blade",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/services-grid.blade",
+		"/Users/mattsmith/Sites/sandbox/database/migrations/2023_04_19_190829_create_service_categories_table.php",
+		"/Users/mattsmith/Sites/sandbox/app/Models/Client.php",
+		"/Users/mattsmith/Sites/sandbox/database/migrations/2023_04_19_190727_create_tasks_table.php",
+		"/Users/mattsmith/Sites/sandbox/database/factories/TaskFactory.php",
+		"/Users/mattsmith/Sites/sandbox/database/factories/ClientFactory.php",
+		"/Users/mattsmith/Sites/sandbox/database/seeders/DatabaseSeeder.php",
+		"/Users/mattsmith/Sites/sandbox/database/migrations/2023_04_19_190743_create_rates_table.php",
+		"/Users/mattsmith/Sites/sandbox/database/factories/RateFactory.php",
+		"/Users/mattsmith/Sites/sandbox/database/factories/ServiceCategoryFactory.php",
+		"/Users/mattsmith/Sites/sandbox/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Users/mattsmith/Sites/sandbox/vendor/laravel/framework/src/Illuminate/Process/Factory.php",
+		"/Users/mattsmith/Sites/sandbox/app/Http/Controllers/ServiceController.php",
+		"/Users/mattsmith/Sites/sandbox/database/migrations/2023_03_02_003402_create_services_table.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/scrape.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/links.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/services/index.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/layout.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/layout_original.blade.php",
+		"/Users/mattsmith/Sites/sandbox/public/append_outbound_links.js",
+		"/Users/mattsmith/Sites/sandbox/public/links.js",
+		"/Users/mattsmith/Sites/sandbox/resources/views/services/_footer.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/services/_header.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/services/show.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/featured-service-card.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/service-card.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/category-button.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/category-dropdown.blade.php",
+		"/Users/mattsmith/Sites/sandbox/app/View/Components/CategoryDropdown.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/services.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/_service-header.blade.php",
+		"/Users/mattsmith/Sites/sandbox/bootstrap/cache/services.php",
+		"/Users/mattsmith/Sites/sandbox/artisan",
+		"/Users/mattsmith/Sites/sandbox/composer.json",
+		"/Users/mattsmith/Sites/sandbox/services-grid.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/old.service.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/services-grid.blade.php",
+		"/Users/mattsmith/Sites/sandbox/app/Models/Category.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/components/services-grid.php",
+		"/Users/mattsmith/Sites/sandbox/routes/web.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/service.blade.php",
+		"/Users/mattsmith/Sites/sandbox/database/factories/UserFactory.php",
+		"/Users/mattsmith/Sites/sandbox/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/Users/mattsmith/Sites/sandbox/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasRelationships.php",
+		"/Users/mattsmith/Sites/sandbox/database/factories/CategoryFactory.php",
+		"/Users/mattsmith/Sites/sandbox/database/factories/ServiceFactory.php",
+		"/Users/mattsmith/Sites/sandbox/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factories/HasFactory.php",
+		"/Users/mattsmith/Sites/sandbox/resources/views/service_layout.blade.php",
+		"/Users/mattsmith/Sites/sandbox/app/Models/User.php",
+		"/Users/mattsmith/Sites/sandbox/storage/logs/laravel.log",
+		"/Users/mattsmith/Sites/sandbox/public/cd_style.css",
+		"/Users/mattsmith/Sites/sandbox/database/migrations/2023_03_03_145152_create_categories_table.php",
+		"/Users/mattsmith/Sites/sandbox/app/Models/Service_old.php",
+		"/Users/mattsmith/Sites/sandbox/resources/services/service-one.html",
+		"/Users/mattsmith/Sites/sandbox/resources/css/app.css",
+		"/Users/mattsmith/Sites/sandbox/resources/services/service-four.html",
+		"/Users/mattsmith/Sites/sandbox/app/Models/service.php",
+		"/Users/mattsmith/Sites/sandbox/resources/services/service-two.html",
+		"/Users/mattsmith/Sites/sandbox/resources/services/service-three.html",
+		"/Users/mattsmith/Sites/sandbox/vendor/spatie/yaml-front-matter/src/Document.php",
+		"/Users/mattsmith/Sites/sandbox/vendor/spatie/yaml-front-matter/src/YamlFrontMatter.php",
+		"/Users/mattsmith/Sites/sandbox/services_static.blade.php",
+		"/Users/mattsmith/Sites/sandbox/resources/services/4thpost.html",
+		"/Users/mattsmith/Sites/sandbox/resources/services/1stpost.html",
+		"/Users/mattsmith/Sites/sandbox/config/services.php",
+		"/Users/mattsmith/Sites/sandbox/app/models/services.php",
+		"/Users/mattsmith/Sites/sandbox/resources/services/3rdpost.html",
+		"/Users/mattsmith/Sites/sandbox/resources/services/2ndpost.html",
+		"/Users/mattsmith/Sites/sandbox/resource/posts/1stpost.html",
+		"/Users/mattsmith/Sites/sandbox/2ndpost.html",
+		"/Users/mattsmith/Sites/sandbox/resources/views/posts/3rdpost.html",
+		"/Users/mattsmith/Sites/sandbox/resources/views/updated.blade.php",
+		"/Users/mattsmith/Sites/sandbox.",
+		"/Users/mattsmith/Library/Application Support/Sublime Text/Packages/AdvancedNewFile/test.php",
+		"/Users/mattsmith/Library/Application Support/Sublime Text/Packages/AdvancedNewFile/Default (OSX).sublime-keymap",
+		"/Users/mattsmith/Library/Application Support/Sublime Text/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/Users/mattsmith/Sites/sandbox/app/Http/Controllers/trythis.php",
+		"/Users/mattsmith/Sites/sandbox/app/Http/Controllers/controlthis.php",
+		"/Users/mattsmith/Sites/sandbox/vendor/laravel/framework/src/Illuminate/Support/Env.php",
+		"/Users/mattsmith/Library/Application Support/Sublime Text/Packages/Material Theme/Material-Theme.sublime-theme",
+		"/Users/mattsmith/Library/Application Support/Sublime Text/Packages/Material Theme/Material-Theme-Palenight.sublime-theme"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "resources/views/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2183,
+								2183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/Syntaxes/HTML (Blade).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/mattsmith/Sites/Comprehensivedigital.com/styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1029,
+								1029
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/* Reset some default browser styles */",
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1322.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/mattsmith/Sites/Comprehensivedigital.com/slider.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								368,
+								368
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// JavaScript for the image slider",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 69.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Cdigital.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			],
+			[
+				"card",
+				"resources/views/components/service-card.blade.php"
+			],
+			[
+				"service-gri",
+				"resources/views/components/services-grid.blade.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"wep",
+				"routes/web.php"
+			],
+			[
+				"_",
+				"resources/views/projects/_header.blade.php"
+			],
+			[
+				"_head",
+				"resources/views/projects/_header.blade.php"
+			],
+			[
+				"project-",
+				"resources/views/components/projects-grid.blade.php"
+			],
+			[
+				"project",
+				"resources/views/components/project-card.blade.php"
+			],
+			[
+				"project-card",
+				"resources/views/components/project-card.blade.php"
+			],
+			[
+				"projects",
+				"database/migrations/2023_04_19_190708_create_projects_table.php"
+			],
+			[
+				"create",
+				"database/migrations/2023_03_02_003402_create_services_table.php"
+			],
+			[
+				"serviceC",
+				"app/Http/Controllers/ServiceController.php"
+			],
+			[
+				"servicecon",
+				"app/Http/Controllers/ServiceController.php"
+			],
+			[
+				"service",
+				"app/Models/Service.php"
+			],
+			[
+				"featured",
+				"resources/views/components/featured-service-card.blade.php"
+			],
+			[
+				"service-",
+				"resources/views/components/service-card.blade.php"
+			],
+			[
+				"grid",
+				"resources/views/components/services-grid.blade.php"
+			],
+			[
+				"index.balde",
+				"resources/views/services/index.blade.php"
+			],
+			[
+				"show",
+				"resources/views/services/show.blade.php"
+			],
+			[
+				"_header",
+				"resources/views/services/_header.blade.php"
+			],
+			[
+				"services/inde",
+				"resources/views/services/index.blade.php"
+			],
+			[
+				"ServiceCon",
+				"app/Http/Controllers/ServiceController.php"
+			],
+			[
+				"category-bu",
+				"resources/views/components/category-button.blade.php"
+			],
+			[
+				"services",
+				"resources/views/services.blade.php"
+			],
+			[
+				"categ",
+				"app/View/Components/CategoryDropdown.php"
+			],
+			[
+				"_ser",
+				"resources/views/_service-header.blade.php"
+			],
+			[
+				"serviceCon",
+				"app/Http/Controllers/ServiceController.php"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"services.bla",
+				"resources/views/services.blade.php"
+			],
+			[
+				"service-c",
+				"resources/views/components/service-card.blade.php"
+			],
+			[
+				"ServiceFac",
+				"database/factories/ServiceFactory.php"
+			],
+			[
+				"seed",
+				"database/seeders/DatabaseSeeder.php"
+			],
+			[
+				"seeder",
+				"vendor/laravel/framework/src/Illuminate/Database/Seeder.php"
+			],
+			[
+				"service.blade",
+				"resources/views/service.blade.php"
+			],
+			[
+				"dropdown",
+				"resources/views/components/dropdown.blade.php"
+			],
+			[
+				"service-he",
+				"resources/views/_service-header.blade.php"
+			],
+			[
+				"layout",
+				"resources/views/components/layout.blade.php"
+			],
+			[
+				"services.blda",
+				"resources/views/services.blade.php"
+			],
+			[
+				"featrued",
+				"resources/views/components/featured-service-card.blade.php"
+			],
+			[
+				"services-grid",
+				"services-grid.blade.php"
+			],
+			[
+				"services.blad",
+				"resources/views/services.blade.php"
+			],
+			[
+				"services.blade",
+				"resources/views/services.blade.php"
+			],
+			[
+				"service.php",
+				"app/Models/Service.php"
+			],
+			[
+				"create_services",
+				"database/migrations/2023_03_02_003402_create_services_table.php"
+			],
+			[
+				"servic.blad",
+				"resources/views/service.blade.php"
+			],
+			[
+				"-one",
+				"resources/services/service-one.html"
+			],
+			[
+				"servci",
+				"app/Models/Service.php"
+			],
+			[
+				"app",
+				"resources/css/app.css"
+			],
+			[
+				"services.bl",
+				"resources/views/services.blade.php"
+			],
+			[
+				"serv",
+				"config/services.php"
+			],
+			[
+				"ser",
+				"resources/views/service.blade.php"
+			],
+			[
+				"welcome",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"env",
+				"vendor/laravel/framework/src/Illuminate/Support/Env.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": false,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

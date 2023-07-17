@@ -1,0 +1,112 @@
+/* Reset some default browser styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+/* Body styles */
+body {
+  font-family: "serif", Times, serif;
+  color: #000000; /* Black text */
+  background-color: #222244; /* Dark blue background */
+}
+
+/* Heading styles */
+h1, h2, h3, h4, h5, h6 {
+  font-family: "sans-serif", Arial, sans-serif;
+}
+
+/* Header styles */
+header {
+  background-color: #222244;
+  padding: 20px;
+  color: #ffffff; /* White text */
+}
+
+nav {
+  margin-top: 10px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  color: #ffffff; /* White text */
+  text-decoration: none;
+  padding: 5px 10px;
+}
+
+nav ul li a:hover {
+  border-bottom: 2px solid #ffffff; /* White underline on hover */
+}
+
+/* Slider styles */
+.slider {
+  position: relative;
+  height: 400px;
+  overflow: hidden;
+}
+
+.slider img.slider-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slider .slider-layer {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  color: #ffffff;
+}
+
+/* Content styles */
+.content {
+  padding: 50px 0;
+  color: #ffffff; /* White text */
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.content p {
+  font-size: 18px;
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #222244;
+  color: #ffffff; /* White text */
+  padding: 20px;
+  text-align: center;
+}
+
+.social-icons {
+  margin-top: 10px;
+}
+
+.social-icons a {
+  color: #ffffff; /* White icon color */
+  text-decoration: none;
+  margin-right: 10px;
+}
+
+.social-icons a:hover {
+  opacity: 0.8; /* Reduce opacity on hover */
+}

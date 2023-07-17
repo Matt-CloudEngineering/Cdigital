@@ -111,7 +111,7 @@
 			"file": "resources/views/index.blade.php",
 			"settings":
 			{
-				"buffer_size": 2183,
+				"buffer_size": 2176,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
@@ -123,7 +123,39 @@
 					"paste",
 					null,
 					"AQAAAAAAAAAAAAAAhwgAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					5,
+					1,
+					"right_delete",
+					null,
+					"AQAAANgAAAAAAAAA2AAAAAAAAAADAAAAY3Nz",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"right_delete",
+					null,
+					"AQAAANgAAAAAAAAA2AAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAA2AAAAAAAAADYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					2,
+					"left_delete",
+					null,
+					"AgAAAFYIAAAAAAAAVggAAAAAAAABAAAAc1UIAAAAAAAAVQgAAAAAAAABAAAAag",
+					"AQAAAAAAAAABAAAAVwgAAAAAAABXCAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					1,
+					"right_delete",
+					null,
+					"AQAAAFUIAAAAAAAAVQgAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAVQgAAAAAAABVCAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
@@ -142,7 +174,7 @@
 					"paste",
 					null,
 					"AQAAAAAAAAAAAAAAagAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		},
@@ -163,7 +195,7 @@
 					"paste",
 					null,
 					"AQAAAAAAAAAAAAAAwgYAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		},
@@ -184,7 +216,7 @@
 					"paste",
 					null,
 					"AQAAAAAAAAAAAAAAcAEAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
 				]
 			]
 		}
@@ -200,6 +232,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"git",
+				"Set Syntax: Git Commit Message"
+			],
 			[
 				":w",
 				":w - Save"
@@ -410,37 +446,37 @@
 				{
 					"buffer": 0,
 					"file": "resources/views/index.blade.php",
+					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2183,
+						"buffer_size": 2176,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2183,
-								2183
+								2133,
+								2133
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Laravel Blade Highlighter/Syntaxes/HTML (Blade).sublime-syntax",
+							"syntax": "Packages/Git Formats/Git Commit Message.sublime-syntax",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 219.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"stack_multiselect": false,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
@@ -465,7 +501,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"stack_multiselect": false,
 					"type": "text"
 				},
@@ -494,7 +530,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1322.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -584,6 +620,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"inde",
+				"~/Sites/Cdigital/resources/views/index.blade.php"
+			],
 			[
 				"",
 				"untitled"
